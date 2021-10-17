@@ -1,8 +1,7 @@
 package controller
 
-import Game
 import entity.Map
-import Game.GameState.*
+import controller.Game.GameState.*
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotEquals
 import org.junit.jupiter.api.Test
